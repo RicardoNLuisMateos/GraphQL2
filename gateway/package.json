@@ -1,0 +1,19 @@
+{
+  "name": "examplev2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^2.4.8",
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.7.1"
+  }
+}
